@@ -1,0 +1,24 @@
+{
+  "name": "practica_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduJimenez96/semana_4_practica_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduJimenez96/semana_4_practica_1/issues"
+  },
+  "homepage": "https://github.com/EduJimenez96/semana_4_practica_1#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
